@@ -1,0 +1,18 @@
+{
+  "version": "0.1.0",
+  "name": "Skyblue",
+  "manifest_version": 2,
+  "theme": {
+    "colors": {
+      "frame": [255, 255, 255],
+      "toolbar": [255, 255, 255],
+      "ntp_text" : [20, 40, 0],
+      "ntp_link" : [36, 70, 0],
+      "ntp_section" : [207, 0, 192],
+      "button_background" : [255, 0, 255]
+    },
+    "tints": {
+      "buttons": [0.59, 1, 0.60]
+    }
+  }
+}
